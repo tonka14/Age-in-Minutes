@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AgeinMinutes</string>
+    <string name="selected_date">Selected Date</string>
+</resources>
